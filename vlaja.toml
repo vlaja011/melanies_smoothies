@@ -1,0 +1,8 @@
+[connections.snowflake]
+account = "MKB07297"
+user = "vladan.strbac@powerschool.com"
+password = "NestoDr"
+role = "SYSADMIN"
+warehouse = "COMPUTE_WH.snowflake.com"
+database = 'SMOOTHIES"
+schema = "PUBLIC"
